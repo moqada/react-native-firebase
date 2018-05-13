@@ -1,4 +1,4 @@
-// @flow
+// @noflow
 import React from 'react';
 import { View, Text, AppState, NetInfo, StatusBar, Platform } from 'react-native';
 import { connect } from 'react-redux';
